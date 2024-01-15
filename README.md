@@ -6,7 +6,8 @@ Welcome to the GitHub repository for Hilde's Kokebok (Hilde's Cookbook), a digit
 
 Hilde's Kokebok is a web-based application where users can browse a variety of recipes. The interface is designed to be user-friendly and easily navigable, making it simple for anyone to find and follow Hilde's delicious recipes.
 
-![Hilde's Kokebok Screenshot](https://hildeskokebok.netlify.app/screenshot.png)
+![image](https://github.com/thomsev/Hildeskokebok/assets/100193213/c8c11487-e6f9-4fab-aecf-f98514d29b53)
+
 
 ## Live Version
 
